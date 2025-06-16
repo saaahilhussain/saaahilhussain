@@ -26,4 +26,5 @@ Hey there, I'm Sahil Hussain. Currently I'm pursuing BTech CSE at The Assam Roya
 ## Lets connect
 
 - <a href="https://www.x.com/saaahilh"><b>Follow me on <u>X</u></b></a>
-- <a href="https://www.x.com/saaahilh"><b>Connect on <u>LinkedIn</u></b></a>
+- <a href="https://www.linkedin.com/in/sahil-hussain-146466285"><b>Connect on <u>LinkedIn</u></b></a>
+ 
