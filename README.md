@@ -17,7 +17,7 @@ Hey there, I'm Sahil Hussain. Currently I'm pursuing BTech CSE at The Assam Roya
 ![Static C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=%23A8B9CC&labelColor=black)
 ![Static C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&labelColor=black)
 
-## Currently I'm Working On
+## Currently Working On
 
 - Building **full-stack web applications** to solve real-world problems.
 - Experimenting with **DevOps** to streamline development workflows.
