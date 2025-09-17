@@ -1,6 +1,6 @@
 # About me
 
-Hey there, I'm Sahil Hussain. Currently I'm pursuing BTech CSE at The Assam Royal Global University. I've been passionately diving into full-stack web development and exploring the exciting world of DevOps. I love building meaningful projects, experimenting with code, and documenting my learning journey on GitHub to inspire and help others in the community. When I'm not coding, you’ll find me working out, strumming my guitar, or writing to express my ideas.
+Full-stack developer with a DevOps and GenAI curiosity. I build things, break things, and then write about it on GitHub. When I'm not at the keyboard, you can find me shitposting on twitter, sometimes playing my guitar, or contemplating the void (and writing about it).
 
 ## My Tech Stack
 
