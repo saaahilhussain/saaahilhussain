@@ -1,6 +1,6 @@
 # About me
 
-Full-stack developer with a DevOps and GenAI curiosity. I build things, break things, and then write about it on GitHub
+Full-stack developer with a DevOps curiosity. I build things, break things, and then write about it on GitHub
 
 ## My Tech Stack
 <b>Languages:</b> JavaScript, TypeScript, C, C++, Python, Bash <br>
