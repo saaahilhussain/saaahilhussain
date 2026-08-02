@@ -17,10 +17,6 @@ Currently exploring open source, distributed systems, cloud infrastructure, and 
 <tr><td><b>Libraries</b></td><td style="border-left:1px solid #444;">Redux, Redux Toolkit, TanStack Query</td></tr>
 <tr><td><b>Tools</b></td><td style="border-left:1px solid #444;">Git, GitHub, Postman, Figma</td></tr>
 </table>
-**Deployment/CI:** Nginx, PM2, GitHub Actions</br>
-**Observability:** Grafana, Prometheus, Loki, Grafana Alloy, OpenTelemetry</br>
-**Styling:** Tailwind CSS, Sass, Styled Components</br>
-**Tools:** Git, GitHub, Postman, Figma</br>
 
 ## Current Focus
 
