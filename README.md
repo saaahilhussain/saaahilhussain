@@ -1,24 +1,31 @@
-# About me
+# About Me
 
-Full-stack developer with a DevOps curiosity. I build things, break things, and then write about it on GitHub
+I build production ready systems that are scalable, secure, and fast.
 
-## My Tech Stack
-<b>Languages:</b> JavaScript, TypeScript, C, C++, Python, Bash <br>
-<b>Frontend:</b> React, React Router, Next.js <br>
-<b>Backend:</b> Node.js, Express.js <br>
-<b>Styling:</b> Tailwind CSS, Sass, Styled-Components <br>
-<b>Libraries:</b> Redux, Redux Toolkit, Zustand, Recoil, Recharts, Leaflet & more <br>
-<b>Databases & Services:</b> MongoDB, Supabase, Firebase <br>
-<b>Version Control:</b> Git
+Currently exploring open source, distributed systems, cloud infrastructure, and agentic AI.
 
-## Currently Working On
+## Tech Stack
 
-- Building **full-stack web applications** to solve real-world problems.
-- Experimenting with **DevOps** to streamline development workflows.
-- Documenting my **learning journey** on GitHub to inspire and help others in the community.
+**Languages:** JavaScript, TypeScript
+**Frontend:** React, Next.js, Redux Toolkit, TanStack Query, React Router
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication, Google OAuth, RBAC
+**Databases:** MongoDB, Mongoose, Redis, Supabase
+**Cloud:** AWS (EC2, S3, CloudFront, IAM)
+**Deployment/CI:** Nginx, PM2, GitHub Actions
+**Observability:** Grafana, Prometheus, Loki, Grafana Alloy, OpenTelemetry
+**Styling:** Tailwind CSS, Sass, Styled Components
+**Tools:** Git, GitHub, Postman, Figma
 
-## Lets connect
+## Current Focus
+- Backend architecture
+- Distributed systems
+- Cloud infrastructure
+- DevOps & CI/CD
+- Open source
+- Observability
+- Agentic AI
 
-- <a href="https://www.x.com/saaahilh"><b>Follow me on <u>X</u></b></a>
-- <a href="https://www.linkedin.com/in/sahil-hussain-146466285"><b>Connect on <u>LinkedIn</u></b></a>
- 
+## Connect
+- 🌐 **Portfolio:** https://saaahil.xyz
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sahil-hussain-146466285
+- 🐦 **X:** https://x.com/saaahilhussain
